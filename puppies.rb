@@ -13,7 +13,7 @@ end
 # to slow down if she's found exactly 3 puppies, and to get back on her animal restriction if she gets more than 3 puppies.
 def less_puppies(number)
   if number < 3
-    "Good job Rachel!"
+    "Good job, Rachel!"
   elsif number == 3
     "Slow down Rachel!"
   else
