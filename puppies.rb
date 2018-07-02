@@ -26,7 +26,7 @@ end
 # This method should tell Rachel good job if she gets less than half her maximum allowance and to get back on her puppy restriction when she exceeds her maximum.
 def some_puppies(number, maxnumber)
   if number > maxnumber
-    "No more puppies!"
+    "Get back to your animal goals!"
   elsif number < maxnumber/2
     "Good job, Rachel!"
   else
