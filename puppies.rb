@@ -45,5 +45,3 @@ def new_animal(puppies, cats)
     "Slow down Rachel"
   end
 end
-
-    
