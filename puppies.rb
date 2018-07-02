@@ -28,9 +28,9 @@ def some_puppies(number, maxnumber)
   if number > maxnumber
     "No more puppies!"
   elsif number < maxnumber/2
-    "Good job"
+    "Good job, Rachel!"
   else
-    "Slow down Rachel"
+    "Slow down! No more puppies."
   end
 end
 
